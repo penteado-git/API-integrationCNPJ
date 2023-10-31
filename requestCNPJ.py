@@ -2,10 +2,10 @@ from requests import get
 
 
 headers = {
-    'Authorization': '3e7fa31b-2e5c-4ca5-b0c6-26a8f1745d68-fbd473bc-efea-4249-8d5f-06da38d1025d'
+    'Authorization': #código de autorização da API
 }
 
-cnpj = "33574172000128"
+cnpj = #declarar a váriavel CNPJ
 
 
 def is_cnpj_valido(cnpj):
