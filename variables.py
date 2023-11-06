@@ -2,7 +2,7 @@ from pymongo import MongoClient
 import xmlrpc.client as client
 
 
-uid = 2
+uid = # ID dentro do programa 
 url = "http:// #URL do local host da aplicação "
 db = ''
 username = ''
